@@ -37,11 +37,16 @@ The analysis focuses on the following KPIs:
 ---
 
 ## Dashboard  
-An interactive dashboard was designed in Power BI, enabling users to explore and filter the data for deeper insights.  
+An interactive dashboard was designed in Power BI, enabling users to explore and filter the data for deeper insights.
 
-### **Reports**  
-- [Credit Card Customer Report](https://github.com/md-danish-ansari/Credit_Card_Report/blob/main/Credit_Card_Customer_Report.pdf)  
-- [Credit Card Transaction Report](https://github.com/md-danish-ansari/Credit_Card_Report/blob/main/Credit_Card_Transaction_Report.pdf)  
+### **Reports**
+- **Credit Card Customer Analysis:**
+
+![Credit Card Customer](https://github.com/md-danish-ansari/Credit_Card_Report/blob/main/Credit_Card_Customer.png)
+
+- **Credit Card Transaction Analysis:**
+
+![Credit Card Transaction](https://github.com/md-danish-ansari/Credit_Card_Report/blob/main/Credit_Card_Transaction.png)
 
 ---
 
@@ -59,10 +64,10 @@ Key findings from the analysis include:
 
 ---
 
-## Final Conclusion
-The analysis reveals the following actionable insights:
-- Targeted marketing campaigns should focus on **males aged 30–50 years** in key regions like **TX, NY, and CA**.
-- Promoting **electronics** and **apparel** categories can drive further growth in sales.
+## Final Conclusion  
+The analysis reveals the following actionable insights:  
+- Targeted marketing campaigns should focus on **males aged 30–50 years** in key regions like **TX, NY, and CA**.  
+- Promoting **electronics** and **apparel** categories can drive further growth in sales.  
 - Addressing **transaction failures** can enhance customer satisfaction and loyalty.
 
 ---
@@ -78,4 +83,5 @@ The analysis reveals the following actionable insights:
 ## Future Enhancements  
 1. Integrate real-time transaction tracking for instant insights.  
 2. Use machine learning models for predictive analysis of spending patterns.  
-3. Expand the dataset to include credit scores and repayment histories.  
+3. Expand the dataset to include credit scores and repayment histories.
+
